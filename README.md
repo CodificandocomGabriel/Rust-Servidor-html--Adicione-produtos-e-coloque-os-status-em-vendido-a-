@@ -1,3 +1,4 @@
 - Tenha o rustc instalado
 - coloque o comando cargo build para baixar todas as bibliotecas
 - e execute o projeto com o comando cargo run
+- e abra o arquivo .html na web, ele esta em src/Front
