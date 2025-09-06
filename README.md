@@ -1,0 +1,3 @@
+- Tenha o rustc instalado
+- coloque o comando cargo build para baixar todas as bibliotecas
+- e execute o projeto com o comando cargo run
